@@ -7,7 +7,7 @@ import SosmedYt from "../assets/sosmed-youtube.svg";
  */
 const CONTENT = {
 	title: "ARLB - Tugu Kujang Bogor",
-	arlink: "https://bangef.github.io/testing-arjs/",
+	arlink: "https://mawaardyanto.github.io/AR-Tugu-Kujang-Kota-Bogor/",
 	header: {
 		headerMenu: [
 			{
